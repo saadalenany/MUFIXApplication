@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "1037602896190",
+    "firebase_url": "https://mufixapplication-486f7.firebaseio.com",
+    "project_id": "mufixapplication-486f7",
+    "storage_bucket": "mufixapplication-486f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037602896190:android:d85fbaee5071e0d7",
+        "android_client_info": {
+          "package_name": "com.example.root.mufixapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037602896190-4j13jm7iclqs1fggehmacb5u1t18ptq6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.root.mufixapplication",
+            "certificate_hash": "2c6f57454ee51d1bbac952e1dd3cc967432465a7"
+          }
+        },
+        {
+          "client_id": "1037602896190-ah4pk8lj6t5ugcd7e9fnof89hkkrmhif.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.root.mufixapplication",
+            "certificate_hash": "895c10153ab5cefb5f078b8ecf54608be0df2415"
+          }
+        },
+        {
+          "client_id": "1037602896190-02nf9cbq0thir32fbnv7to7m3lg5q2uf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATxlQU64wVuPfwPrq903PtU0x8Kef2DI8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037602896190-02nf9cbq0thir32fbnv7to7m3lg5q2uf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

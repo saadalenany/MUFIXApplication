@@ -13,4 +13,5 @@ public class Statics {
     public static User loggedUser = new User();
     public static ArrayList<User> users = new ArrayList<>();
     public static DataProcessor dataProcessor = new DataProcessor();
+
 }
